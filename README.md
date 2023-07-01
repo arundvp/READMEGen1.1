@@ -1,7 +1,7 @@
 
 # My First Trillion $ Project
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: Apache-2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 Global Business is all about, Good luck!!
 
@@ -31,12 +31,13 @@ follow my test instructions
 
 ## License
 
-This project is licensed under the MIT.
+This project is licensed under the Apache-2.0.
 
 ## Questions
 
-If you have any questions, please feel free to reach out to me:
+If you have any questions or need further assistance, please feel free to reach out to me.
 
-GitHub: [arundvp](https://github.com/arundvp)
+Contact Information:
 
-Email: arundvp@arundvp.com
+- GitHub: [arundvp](https://github.com/arundvp)
+- Email: arundvp@arundvp.com

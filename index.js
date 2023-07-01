@@ -96,11 +96,12 @@ This project is licensed under the ${answers.license}.
 
 ## Questions
 
-If you have any questions, please feel free to reach out to me:
+If you have any questions or need further assistance, please feel free to reach out to me.
 
-GitHub: [${answers.username}](https://github.com/${answers.username})
+Contact Information:
 
-Email: ${answers.email}
+- GitHub: [${answers.username}](https://github.com/${answers.username})
+- Email: ${answers.email}
 `;
 
     fs.writeFile('README.md', readmeTemplate, (err) => {
