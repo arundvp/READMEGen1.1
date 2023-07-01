@@ -1,16 +1,16 @@
 
 # My First Trillion $ Project
 
-## Description
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Global Business is all about, Good luck!!
 
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
-- [License](#license)
 - [Contributing](#contributing)
 - [Tests](#tests)
+- [License](#license)
 - [Questions](#questions)
 
 ## Installation
@@ -21,17 +21,17 @@ follow my below instruction
 
 follow my usage information
 
-## License
-
-This project is licensed under the MIT.
-
 ## Contributing
 
-use github
+follow my guidelines
 
 ## Tests
 
-perform the unit testing 
+follow my test instructions
+
+## License
+
+This project is licensed under the MIT.
 
 ## Questions
 
