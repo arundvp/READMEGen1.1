@@ -3,7 +3,7 @@
 
 ## Description
 
-Global Business is all about, Good lick!!
+Global Business is all about, Good luck!!
 
 ## Table of Contents
 - [Installation](#installation)
